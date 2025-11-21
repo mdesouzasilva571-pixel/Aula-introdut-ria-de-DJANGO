@@ -1,2 +1,2 @@
-# Aula-introdut-ria-de-DJANGO
+# Aula-introdutoria-de-DJANGO
 Reservado para anotações e exércicios práticos
